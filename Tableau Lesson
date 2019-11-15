@@ -1,0 +1,47 @@
+Tableau Lesson
+
+1) Difference between free public and "pro"
+	show both interfaces
+	compare to ESRI Insights for ArcGIS (<https://www.esri.com/en-us/arcgis/products/insights-for-arcgis/overview>)
+1) Tableau Desktop Public allows you to connect only to local data and you have to make an extract to public the workbook to Tableau Server Public
+
+2) Tableau desktop Public does not allows you to save your workbook locally in your PC, you have to save it to tableau server Public
+
+3) There is a limit in the number of rows in your data source that recently was increased to 1 million rows.
+
+ 
+
+
+
+
+2) Connecting Data
+
+
+3) show a map
+
+
+4) charting
+
+
+What can Tableau Desktop do that Tableau Public can't?
+15 Answers
+Nitish Gupta
+Nitish Gupta, Research Analyst at Edureka (2018-present)
+Answered Aug 8 2018
+
+To understand the difference in their functionality, you will first need to understand what they are.
+
+Tableau Desktop:- All your development is done here. From creating reports, charts, formatting them, putting them together as a dashboard all the work is done on Tableau Desktop. It is a self service business analytics and data visualization that anyone can use. It translates pictures of data into optimized queries. With tableau desktop, you can directly connect to data from your data warehouse for live upto date data analysis. You can also perform queries without writing a single line of code. Import all your data into Tableau’s data engine from multiple sources & integrate altogether by combining multiple views in a interactive dashboard.
+
+Tableau Public:- This is a free Tableau software which you can use to make visualizations with. Visualization Enthusiast can play with data using Tableau Public. It has its limitation. You can only use limited data(no. of rows), can only connect excel or text file (no database connectivity) & anything you save in Tableau Public will be saved on Tableau Public Sever which anyone can download (no confidentiality).
+
+Major Differences:-
+
+1) You can save your work locally in Tableau Desktop but not in Tableau Public.
+
+2) You can work on live data in Tableau Desktop but not in Tableau Public.
+
+3) You can connect to many data sources in Desktop but only some sources like Excel, Access, Text in Public.
+
+
+
